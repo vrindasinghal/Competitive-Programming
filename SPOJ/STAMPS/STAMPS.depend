@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1498536227 source:c:\users\vrinda\desktop\competitive-programming\spoj\stamps\main.cpp
+	<iostream>
+	<stdlib.h>
+
